@@ -1,4 +1,3 @@
-/// <binding AfterBuild='scriptsNStyles' />
 var ts = require('gulp-typescript');
 var gulp = require('gulp');
 var clean = require('gulp-clean');
@@ -21,7 +20,8 @@ gulp.task("scriptsNStyles", () => {
             'zone.js/dist/**',
             '@angular/**',
             'jquery/dist/jquery.*js',
-            'bootstrap/dist/js/bootstrap*.js',
+            'bootstrap/dist/js/bootstrap.*js',
+            'es6-shim/.*map'
     ], {
         cwd: "node_modules/**"
     })
