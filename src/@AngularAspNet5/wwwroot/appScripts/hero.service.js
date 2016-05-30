@@ -33,3 +33,4 @@ var HeroService = (function () {
     return HeroService;
 }());
 exports.HeroService = HeroService;
+//# sourceMappingURL=hero.service.js.map
