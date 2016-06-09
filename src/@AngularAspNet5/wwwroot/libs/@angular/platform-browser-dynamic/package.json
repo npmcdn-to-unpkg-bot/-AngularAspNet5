@@ -1,15 +1,8 @@
 {
   "_args": [
     [
-      {
-        "name": "@angular/platform-browser-dynamic",
-        "raw": "@angular/platform-browser-dynamic@2.0.0-rc.1",
-        "rawSpec": "2.0.0-rc.1",
-        "scope": "@angular",
-        "spec": "2.0.0-rc.1",
-        "type": "version"
-      },
-      "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
+      "@angular/platform-browser-dynamic@2.0.0-rc.1",
+      "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
     ]
   ],
   "_from": "@angular/platform-browser-dynamic@2.0.0-rc.1",
@@ -43,7 +36,7 @@
   "_shasum": "0edb02929dbe479afdfeba6a1a3b67985a8f66ff",
   "_shrinkwrap": null,
   "_spec": "@angular/platform-browser-dynamic@2.0.0-rc.1",
-  "_where": "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
+  "_where": "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
   "author": {
     "name": "angular"
   },

@@ -1,15 +1,8 @@
 {
   "_args": [
     [
-      {
-        "name": "rxjs",
-        "raw": "rxjs@5.0.0-beta.6",
-        "rawSpec": "5.0.0-beta.6",
-        "scope": null,
-        "spec": "5.0.0-beta.6",
-        "type": "version"
-      },
-      "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
+      "rxjs@5.0.0-beta.6",
+      "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
     ]
   ],
   "_from": "rxjs@5.0.0-beta.6",
@@ -43,7 +36,7 @@
   "_shasum": "cb6dc46d6ddfedfeefc9b15dafd09c34a4370d23",
   "_shrinkwrap": null,
   "_spec": "rxjs@5.0.0-beta.6",
-  "_where": "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
+  "_where": "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
   "author": {
     "email": "blesh@netflix.com",
     "name": "Ben Lesh"

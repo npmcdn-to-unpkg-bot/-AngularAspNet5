@@ -21,7 +21,7 @@ namespace _AngularAspNet5
         public void Configure(IApplicationBuilder app)
         {
             // Add the platform handler to the request pipeline.
-            app.UseIISPlatformHandler();
+           // app.UseIISPlatformHandler();
 
             app.UseDefaultFiles();
             app.UseStaticFiles();

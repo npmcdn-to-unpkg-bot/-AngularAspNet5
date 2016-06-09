@@ -1,15 +1,8 @@
 {
   "_args": [
     [
-      {
-        "name": "@angular/core",
-        "raw": "@angular/core@2.0.0-rc.1",
-        "rawSpec": "2.0.0-rc.1",
-        "scope": "@angular",
-        "spec": "2.0.0-rc.1",
-        "type": "version"
-      },
-      "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
+      "@angular/core@2.0.0-rc.1",
+      "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
     ]
   ],
   "_from": "@angular/core@2.0.0-rc.1",
@@ -43,7 +36,7 @@
   "_shasum": "34e381faffb60fc12e8ac9887badb252550907e0",
   "_shrinkwrap": null,
   "_spec": "@angular/core@2.0.0-rc.1",
-  "_where": "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
+  "_where": "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
   "author": {
     "name": "angular"
   },

@@ -1,15 +1,8 @@
 {
   "_args": [
     [
-      {
-        "name": "@angular/router",
-        "raw": "@angular/router@2.0.0-rc.1",
-        "rawSpec": "2.0.0-rc.1",
-        "scope": "@angular",
-        "spec": "2.0.0-rc.1",
-        "type": "version"
-      },
-      "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
+      "@angular/router@2.0.0-rc.1",
+      "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
     ]
   ],
   "_from": "@angular/router@2.0.0-rc.1",
@@ -43,7 +36,7 @@
   "_shasum": "96f3868884e151fe8bac07ac7e1b4ec0ad07db77",
   "_shrinkwrap": null,
   "_spec": "@angular/router@2.0.0-rc.1",
-  "_where": "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
+  "_where": "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
   "author": {
     "name": "angular"
   },

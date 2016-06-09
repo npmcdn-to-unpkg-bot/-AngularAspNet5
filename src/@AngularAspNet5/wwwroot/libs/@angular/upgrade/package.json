@@ -1,15 +1,8 @@
 {
   "_args": [
     [
-      {
-        "name": "@angular/upgrade",
-        "raw": "@angular/upgrade@2.0.0-rc.1",
-        "rawSpec": "2.0.0-rc.1",
-        "scope": "@angular",
-        "spec": "2.0.0-rc.1",
-        "type": "version"
-      },
-      "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
+      "@angular/upgrade@2.0.0-rc.1",
+      "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5"
     ]
   ],
   "_from": "@angular/upgrade@2.0.0-rc.1",
@@ -43,7 +36,7 @@
   "_shasum": "50278e5e605b9629e6130db523005951695149ee",
   "_shrinkwrap": null,
   "_spec": "@angular/upgrade@2.0.0-rc.1",
-  "_where": "D:\\Users\\Gary\\VS Team Explorer\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
+  "_where": "D:\\Source\\Repos\\-AngularAspNet5\\src\\@AngularAspNet5",
   "author": {
     "name": "angular"
   },
